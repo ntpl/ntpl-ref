@@ -2620,7 +2620,7 @@ doi = {10.1103/PhysRevLett.102.196803}
 
 @phdthesis{thomasthesis,
      author = "J. A. Thomas",
-     title = "{Water flow and thermal transport through carbon nanotubes}",
+     title = "{water flow and thermal transport through carbon nanotubes}",
      school = "Carnegie Mellon University",
      year = 2010,
      type = "{PhD Thesis}",
@@ -2871,7 +2871,7 @@ doi = {10.1103/PhysRevLett.102.196803}
 
 @Article{shiomi2006,
   title = {Non-Fourier heat conduction in a single-walled carbon nanotube: Classical molecular dynamics simulations},
-  author = {J. Shiomi  and S. Maruyama},
+  author = {Shiomi, Junichiro  and Maruyama, Shigeo },
   journal = {Phys. Rev. B},
   volume = {73},
   pages = {205420},
@@ -5382,7 +5382,7 @@ doi = {10.1063/1.3276460}
 %--------------------------------------------------------------------------------------
 
 @ARTICLE{Hori2012,
-   author = "T. Hori and T. Shiga and S. Maruyama and J. Shiomi",
+   author = "Takuma Hori, Takuma Shiga, Shigeo Maruyama and Junichiro Shiomi",
    title = "Mode-Dependent Phonon Transport Analysis of Silicon Crystal by Molecular Dynamics Method",
    year = "2012",
    journal = "Transactions of the Japan Society of Mechanical Engineers",
@@ -5415,17 +5415,17 @@ used to fit the Lorentzian function.",
    pages = "291"
 }
 
-@ARTICLE{LAMMPS,
+@ARTICLE{LAMMPS},
    author = "S. Plimpton",
    title = "Fast Parallel Algorithms for Short-Range Molecular Dynamics",
    year = "1995",
    journal = "Journal of Computational Physics",
    volume = "117",
-   pages = "1-19"
+   pages = "1-19",
 }
 
 @article{shiomi2011a,
-author = {J. Shiomi and K. Esfarjani and G. Chen},
+author = {Junichiro Shiomi and Keivan Esfarjani and Gang Chen},
 collaboration = {},
 title = {Thermal conductivity of half-Heusler compounds from first-principles calculations},
 publisher = {APS},
@@ -5440,7 +5440,7 @@ doi = {10.1103/PhysRevB.84.104302}
 }
 
 @article{shiomi2011b,
-author = {Z. Y. Ong and E. Pop and J. Shiomi},
+author = {Zhun-Yong Ong and Eric Pop and Junichiro Shiomi},
 collaboration = {},
 title = {Reduction of phonon lifetimes and thermal conductivity of a carbon nanotube on amorphous silica},
 publisher = {APS},
@@ -5453,7 +5453,7 @@ doi = {10.1103/PhysRevB.84.104302}
 }
 
 @ARTICLE{shiomi2011c,
-   author = {J. Shiomi and K. Esfarjani and G. Chen},
+   author = {Junichiro Shiomi and Keivan Esfarjani and Gang Chen},
    title = "Thermal conductivity of half-Heusler compounds from first-principles calculations",
    year = "2011",
    journal = "Physical Review B",
@@ -5471,8 +5471,8 @@ doi = {10.1103/PhysRevB.84.104302}
 }
 
 @ARTICLE{qiu2011,
-   author = {B. Qiu and H. Bao and G. Zhang and Y. Wub and X. Ruan},
-   title = "Molecular dynamics simulations of lattice thermal conductivity and spectral phonon mean free path of {PbTe}: Bulk and nanostructures",
+   author = {Bo Qiu and Hua Bao and Gengqiang Zhang and Yue Wub and Xiulin Ruan},
+   title = "Molecular dynamics simulations of lattice thermal conductivity and spectral phonon mean free path of PbTe: Bulk and nanostructures",
    year = "2011",
    journal = "Computational Materials Science",
    volume = "53",
@@ -5480,7 +5480,7 @@ doi = {10.1103/PhysRevB.84.104302}
 }
 
 @phdthesis{mcgaugheythesis,
-     author = "A. J. H. McGaughey",
+     author = "Alan J. H. McGaughey",
      title = "{Phonon Transport in Molecular Dynamics Simulations:Formulation and Thermal Conductivity Prediction}",
      school = "University of Michigan",
      year = 2004,
@@ -5612,8 +5612,8 @@ doi = {10.1063/1.3073954}
 }
 
 @article{He2011a,
-  title = {Heat transport in amorphous silicon: Interplay between morphology and disorder},
-  author = {Y. He and D. Donadio and G. Galli},
+  title = {Heat transport in amorphous silicon: Interplay between morphologyand disorder},
+  author = {Yuping He and Davide Donadio and Giulia Galli},
   journal = {Applied Physics Letters},
   volume = {98},
   pages = {144101},
@@ -6075,7 +6075,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{asheghi1997,
    author = "M. Asheghi and Y. K. Leung and S. S. Wong and K. E. Goodson",
-   title = "Phonon-boundary scattering in thin silicon layers",
+   title = "",
    year = "1997",
    journal = "Applied Physics Letters",
    volume = "71",
@@ -6084,7 +6084,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{balandin1997,
    author = "A. Balandin and K. L. Wang",
-   title = "Significant decrease of the lattice thermal conductivity due to phonon confinement in a free-standing semiconductor quantum well",
+   title = "",
    year = "1998",
    journal = "Physical Review B",
    volume = "58",
@@ -6102,7 +6102,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{tian2011,
    author = "Z. Tian and K. Esfarjani and J. Shiomi and A. S. Henry and G. Chen",
-   title = "On the importance of optical phonons to thermal conductivity in nanostructures",
+   title = "",
    year = "2011",
    journal = "Applied Physics Letters",
    volume = "99",
@@ -6111,7 +6111,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{Hochbaum2011,
    author = "A. I. Hochbaum and R. Chen and R. D. Delgado and W. Liang and E. C. Garnett and M. Najarian and A. Majumdar and P. Yang",
-   title = "Enhanced thermoelectric performance of rough silicon nanowires",
+   title = "",
    year = "2008",
    journal = "Nature",
    volume = "451",
@@ -6120,7 +6120,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{Martin2011,
    author = "P. Martin and Z. Aksamija and E. Pop and U. Ravaioli",
-   title = "Impact of Phonon-Surface Roughness Scattering on Thermal Conductivity of Thin Si Nanowires",
+   title = "",
    year = "2009",
    journal = "Physical Review Letters",
    volume = "102",
@@ -6129,7 +6129,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{Yu2011,
    author = "J.-K. Yu and S. Mitrovic and D. Tham and J. Varghese and J. R. Heath",
-   title = "Reduction of thermal conductivity in phononic nanomesh structures",
+   title = "",
    year = "2010",
    journal = "Nature Nanotechnology",
    volume = "5",
@@ -6138,7 +6138,7 @@ author = "A. Miyamoto and M. Kubo"
 
 @ARTICLE{Hopkins2011,
    author = "P. E. Hopkins and C. M. Reinke and M. F. Su and R. H. Olsson and E. A. Shaner and Z. C. Leseman and J. R. Serrano and L. M. Phinney and I. El-Kady",
-   title = "Reduction in the Thermal Conductivity of Single Crystalline Silicon by Phononic Crystal Patterning",
+   title = "",
    year = "2011",
    journal = "Nano Letters",
    volume = "11",
@@ -6571,6 +6571,80 @@ eprint = {http://pubs.acs.org/doi/pdf/10.1021/ja063695y}
     author = "P. C. Wankat and F. S. Oreovicz",
     title = "Teaching Engineering",
     publisher = "Available at https://engineering.purdue.edu/ChE/News\_and\_Events/Publications /teaching\_engineering/index.html, accessed June 26, 2007"
+}
+
+@MISC{bigdft,
+    note = "{http://inac.cea.fr/L\_Sim/BigDFT/}, accessed January 26, 2010"
+}
+
+@MISC{lammps,
+    note = "{http://lammps.sandia.gov/}, accessed January 26, 2010"
+}
+
+@MISC{teragrid,
+    note = "{http://www.teragrid.org/}, accessed January 26, 2010"
+}
+
+@MISC{abinit,
+    note = "{http://www.abinit.org/}, accessed January 26, 2010"
+}
+
+@MISC{qe,
+    note = "{http://www.quantum-espresso.org/}, accessed January 26, 2010"
+}
+
+
+@MISC{gulp,
+    note = "{https://www.ivec.org/gulp/}, accessed January 26, 2010"
+}
+
+@MISC{scitech,
+    note = "{http://www.pps.k12.pa.us/pst/site/default.asp}, accessed January 26, 2010"
+}
+
+
+
+@MISC{sam,
+    note = "{h}ttp://www.me.cmu.edu/faculty1/higgs/generation.html, accessed November 1, 2009"
+}
+@MISC{vasp,
+    note = "{h}ttp://cms.mpi.univie.ac.at/vasp/"
+}
+
+@MISC{nanofilter,
+    note = "{h}ttp://www.rle.mit.edu/micronano/research\_protein-ogston.htm, accessed June 26, 2007"
+}
+
+@MISC{ultracap,
+    note = "{h}ttp://lees-web.mit.edu/lees/projects/cnt\_ultracap\_project.htm, accessed June 26, 2007"
+}
+
+@MISC{ntpwiki,
+    note = "{h}ttp://ntpl.me.cmu.edu/ntpwiki/, accessed {J}anuary 20, 2009"
+}
+
+@MISC{sim_meeting,
+    note = "{h}ttp://ntpl.me.cmu.edu/ntplwiki/index.php/PA-OH-WV\_Simulators\_Meeting, accessed {J}anuary 20, 2009"
+}
+
+@MISC{nae,
+    note = "{h}ttp://www.engineeringchallenges.org/, accessed June 26, 2008"
+}
+
+@MISC{nanohub,
+    note = "{h}ttp://www.nanohub.org/, accessed {J}anuary 20, 2009"
+}
+
+@MISC{thermalhub,
+    note = "{h}ttp://thermalhub.org/, accessed {J}anuary 20, 2009"
+}
+
+@MISC{osher,
+    note = "{h}ttp://www.cmu.edu/osher/, accessed June 26, 2008"
+}
+
+@MISC{cmu_yt,
+    note = "{h}ttp://www.youtube.com/user/carnegiemellonu, accessed July 7, 2008"
 }
 
 
